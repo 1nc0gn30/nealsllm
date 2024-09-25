@@ -15,7 +15,7 @@ def generate():
 
     try:
         # Use Ollama's Python API to generate a response
-        result = ollama.chat(model='llama3.1', messages=[{'role': 'user', 'content': prompt}])
+        result = ollama.chat(model='llama2', messages=[{'role': 'user', 'content': prompt}])
         response = result['message']['content']
         return jsonify({"response": response})
 
