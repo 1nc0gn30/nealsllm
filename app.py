@@ -1,6 +1,6 @@
+import ollama
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import ollama  # Import the Ollama Python package
 
 app = Flask(__name__)
 CORS(app)
@@ -14,7 +14,7 @@ def generate():
         return jsonify({"error": "Prompt is required"}), 400
 
     try:
-        # Use Ollama's Python API to generate a response
+        # Use a smaller Ollama model
         result = ollama.chat(model='llama2', messages=[{'role': 'user', 'content': prompt}])
         response = result['message']['content']
         return jsonify({"response": response})
