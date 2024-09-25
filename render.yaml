@@ -9,5 +9,6 @@ services:
       # Install Ollama CLI (ensure the installation command matches your environment)
       curl -sSfL https://ollama.com/download.sh | sh
       ollama pull llama3.1
-    startCommand: python app.py
+    startCommand: gunicorn app:app --bind 0.0.0.0:5000
+
 
