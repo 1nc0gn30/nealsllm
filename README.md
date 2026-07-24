@@ -1,38 +1,50 @@
-# nealsllm
+<!-- xonettn -->
+<div align="center">
+
+# 🤖 Nealsllm
 
 A project by Neal Frazier
 
-## Overview
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 📋 Overview
 This repository is part of Neal Frazier project collection.
 
-## Tech Stack
+## 📦 Tech Stack
 - Python
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 nealsllm/
   - 
   (4 files total)
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 - Python 3.10+
 
-### Installation
+### 📦 Installation
 ```bash
 git clone https://github.com/1nc0gn30/nealsllm.git
 cd nealsllm
 pip install -r requirements.txt
 ```
 
-### Run
+### 🚀 Run
 ```bash
 python main.py
 ```
 
-## TODO / Roadmap
+## 📝 TODO / Roadmap
 - [ ] Add unit tests
 - [ ] Add LICENSE file
 - [ ] Add CI/CD pipeline
@@ -41,14 +53,22 @@ python main.py
 - [ ] Add environment variable documentation
 - [ ] Add code comments and inline documentation
 
-## Deployment
+## 🚀 Deployment
 This project can be deployed to Netlify, Vercel, or any static host.
 
-## Author
+## 👤 Author
 **Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/1nc0gn30/nealsllm
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
