@@ -1,7 +1,22 @@
 <!-- xonettn -->
 <div align="center">
 
-# 🤖 Nealsllm
+# 🤖 🤖 Nealsllm
+
+A project by Neal Frazier
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+<!-- xonettn -->
+<div align="center">
+
 
 A project by Neal Frazier
 
@@ -64,6 +79,14 @@ This project can be deployed to Netlify, Vercel, or any static host.
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
 
 ---
 
